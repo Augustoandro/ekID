@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/apiclient": "^2.13",
+        "google/cloud-storage": "^1.30"
+    }
+}
